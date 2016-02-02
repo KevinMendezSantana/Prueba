@@ -4,5 +4,6 @@ public class Ventana extends Frame{
 	//ASDASDAS
 	this.setBounds(10,40,350,280);
 	//hola, soy lalo
+	//Y yo kevin .i.
  }//void 
 }//clase
