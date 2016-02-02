@@ -3,5 +3,6 @@ public class Ventana extends Frame{
 	//tamaño de la ventana
 	//ASDASDAS
 	this.setBounds(10,40,350,280);
+	//hola, soy lalo
  }//void 
 }//clase
